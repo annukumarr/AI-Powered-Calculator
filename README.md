@@ -8,3 +8,5 @@ A Python-based advanced calculator supporting multiple mathematical functions.
 - Clear console output
 
 ## 🧪 Example
+Enter 5 + 7
+Result: 12
